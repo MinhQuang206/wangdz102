@@ -7,4 +7,4 @@
 <!---
 wangdz102/wangdz102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->If you are Vietnamese, the better it is to communicate, otherwise let's use google translate
+--->If you know Vietnamese, the better to communicate, if not, let's use google translate
