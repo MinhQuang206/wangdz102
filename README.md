@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wangdz102
+- 👋 Hi, I’m @MinhQuang206
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning high school
 - 💞️ I’m looking to collaborate on the python engine
